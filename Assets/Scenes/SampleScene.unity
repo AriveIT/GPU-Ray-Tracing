@@ -324,3 +324,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   RayTracingShader: {fileID: 7200000, guid: 5ba3657ad8bc436468a20f1939696b91, type: 3}
   SkyboxTexture: {fileID: 2800000, guid: d9f2340811046094eaf940b8f41e554a, type: 3}
+  DirectionalLight: {fileID: 705507994}
